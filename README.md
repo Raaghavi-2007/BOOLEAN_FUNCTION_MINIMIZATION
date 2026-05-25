@@ -62,7 +62,6 @@ Commutative law A B = B A,A + B = B + A
 Developed by: RAAGHAVI S  RegisterNumber: 212225040321 */
 
 **Truth Table:**
-
 (i) <img width="805" height="442" alt="image" src="https://github.com/user-attachments/assets/524317d3-9337-4ff3-a654-222afff3e326" />
 
 (ii) <img width="797" height="421" alt="image" src="https://github.com/user-attachments/assets/b71193ee-d7f1-4af4-80d4-1d2793293431" />
