@@ -35,6 +35,7 @@ Absorption Law A ⋅ (A + B) = A, A + (A ⋅ B) = A
 Associative Law A + (B + C) = (A + B) + C, A.(B.C) = (A.B).C
 
 Commutative law A B = B A,A + B = B + A
+
 **Logic Diagram**
 
 **Procedure**
