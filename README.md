@@ -38,7 +38,7 @@ Commutative law A B = B A,A + B = B + A
 
 **Logic Diagram**
 
-**Procedure**
+**Procedure:**
 
 1.	Type the program in Quartus software.
 
